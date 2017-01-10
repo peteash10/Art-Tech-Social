@@ -19,6 +19,8 @@ This workshop is based on [Golan Levin](http://www.flong.com)'s course of the sa
 
 [Adam Magyar, Stainless - Shinjuku](https://vimeo.com/77489382)
 
+Most high-end smartphones from the last couple of years have pretty decent slo-mo modes, up to 240fps. 
+
 [R. Luke DuBois - Fashionably Late for the Relationship](https://vimeo.com/30496329)
 
 [DAWN CHORUS by Marcus Coates](https://www.youtube.com/watch?v=PCCpnDtgxXk)
@@ -31,17 +33,19 @@ Golan's history of [Long Exposure in art](https://github.com/golanlevin/Experime
 
 My [Koyaanisqatsi Slitscanned](http://art.peteashton.com/koyaanisqatsi-slitscanned/)
 
-The Slitscan Processing sketch I had running on the iMac is here. You'll need to download Processing to run it. 
+[The Slitscan Processing sketch I had running on the iMac is here.](https://github.com/peteash10/BOM-Art-Tech-Social/raw/master/SlitScan%20-%20Processing.zip) You'll need to download [Processing](https://processing.org) to run it. 
 
 [Here are the slitscan images we recorded during the session (180mb)](https://www.dropbox.com/s/lzoy8ntd2r7xpqx/slitscans.zip?dl=1)
 
-## Merging
+## Merging and Montage
 
 [David Hockney's Photo Montages](http://www.hockneypictures.com/photos/photos_collages.php)
 
 [Jenny Odell](http://jennyodell.com) has a good [overview of Hockney's approach to photography in this talk from 6:12](https://vimeo.com/178236530#t=372s)
 
 [Matt Murtagh's Photo Montages](https://www.flickr.com/photos/msmurtagh/sets/72157622940838556/)
+
+[The Hockneyesque Flickr group](https://www.flickr.com/groups/13867288@N00/pool/) has some great examples of people playing with Hockney's ideas. 
 
 [Ronen V's montage animations](http://ronenv.com/pics/) (Bit rude in places)
 
@@ -50,6 +54,8 @@ The Slitscan Processing sketch I had running on the iMac is here. You'll need to
 My [648 MPs](http://art.peteashton.com/648-MPs/)
 
 My [Auto-Blending 2016](http://art.peteashton.com/auto-blending-2016/)
+
+Photoshop is probably the obvious tool for doing these things but it's not the only option. [ImageMagick](http://www.imagemagick.org/) is an open source, command-line tool which is good for batch processing lots of images. [Gimp](https://www.gimp.org) is an open-source equivalent of Photoshop. 
 
 ## Photogrammetry
 
@@ -67,8 +73,10 @@ The best tool for this is [Photoscan](http://www.agisoft.com). You can run it in
 
 [Clouds](http://www.cloudsdocumentary.com/) - a documentary made with a Kinect mounted under a DSLR capturing RGB Video and Depth.
 
-[Flir One thermal camera for smartphones](http://www.flir.co.uk/flirone/ios-android/)
-
 ## Multispectral
 
-[An intro to MultiSpectral Capture](https://github.com/golanlevin/ExperimentalCapture/blob/master/docs/hyperspectral.md)
+[An intro to MultiSpectral Capture](https://github.com/golanlevin/ExperimentalCapture/blob/master/docs/hyperspectral.md).
+
+[Flir One thermal camera for smartphones](http://www.flir.co.uk/flirone/ios-android/).
+
+## Thank you! 
