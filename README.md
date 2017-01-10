@@ -67,6 +67,8 @@ The best tool for this is [Photoscan](http://www.agisoft.com). You can run it in
 
 [Shining 360](https://www.youtube.com/watch?v=AupAFblRwgY) - a 3D video made from putting long tracking shots from The Shining through PhotoScan. (Needs Chrome)
 
+[Photogrammetring (?) the Mannequin Challenge.](https://blog.sketchfab.com/art-spotlight-mannequinchallenge-cavaliers-michelle-obama/) 
+
 ## Depth
 
 [Open Kinect for Processing](https://github.com/shiffman/OpenKinect-for-Processing) - this will let you access Kinect data through Processing on any computer. 
