@@ -31,6 +31,10 @@ Golan's history of [Long Exposure in art](https://github.com/golanlevin/Experime
 
 My [Koyaanisqatsi Slitscanned](http://art.peteashton.com/koyaanisqatsi-slitscanned/)
 
+The Slitscan Processing sketch I had running on the iMac is here. You'll need to download Processing to run it. 
+
+[Here are the slitscan images we recorded during the session (180mb)](https://www.dropbox.com/s/lzoy8ntd2r7xpqx/slitscans.zip?dl=1)
+
 ## Merging
 
 [David Hockney's Photo Montages](http://www.hockneypictures.com/photos/photos_collages.php)
