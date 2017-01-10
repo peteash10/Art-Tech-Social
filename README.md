@@ -35,6 +35,8 @@ My [Koyaanisqatsi Slitscanned](http://art.peteashton.com/koyaanisqatsi-slitscann
 
 [David Hockney's Photo Montages](http://www.hockneypictures.com/photos/photos_collages.php)
 
+[Jenny Odell](http://jennyodell.com) has a good [overview of Hockney's approach to photography in this talk from 6:12](https://vimeo.com/178236530#t=372s)
+
 [Matt Murtagh's Photo Montages](https://www.flickr.com/photos/msmurtagh/sets/72157622940838556/)
 
 [Ronen V's montage animations](http://ronenv.com/pics/) (Bit rude in places)
